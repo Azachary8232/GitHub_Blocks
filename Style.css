@@ -5,10 +5,10 @@ h1{
     text-align: center;
 }
 
-#container{
+/* #container{
     margin: auto;
     background-color: darkmagenta;
-}
+} */
 
 .boxes{
     width: 600px;
@@ -17,4 +17,23 @@ h1{
     margin: 20px 350px;
     display: flex;
     justify-content: space-evenly;
+    border-style: solid;
+    border-width: 5px;
+    border-color: black;
+}
+
+img{
+    margin: 5px;
+}
+
+#box1{
+    background-color: orangered;
+}
+
+#box2{
+    background-color: brown;
+}
+
+#box3{
+    background-color: red;
 }

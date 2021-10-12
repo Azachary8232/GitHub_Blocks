@@ -1,2 +1,20 @@
 
 
+h1{
+    color: orange;
+    text-align: center;
+}
+
+#container{
+    margin: auto;
+    background-color: darkmagenta;
+}
+
+.boxes{
+    width: 600px;
+    height: 150px;
+    background-color: cyan;
+    margin: 20px 350px;
+    display: flex;
+    justify-content: space-evenly;
+}
